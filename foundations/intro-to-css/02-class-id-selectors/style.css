@@ -1,1 +1,7 @@
 /* Add CSS Styling */
+.number-one, 
+.number-three, 
+.number-five {
+    background-color: lightpink;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
